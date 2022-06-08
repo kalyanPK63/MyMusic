@@ -4,4 +4,4 @@
 
 2.Used Spring boot application for backend with mongoDB Atlas as Database.
 
-3. ReactJs is Used for Front End with Bootstrap, axios, materialUI
+3.ReactJs is Used for Front End with Bootstrap, axios, materialUI
